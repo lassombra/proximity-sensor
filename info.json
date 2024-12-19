@@ -1,0 +1,11 @@
+{
+	"Id": "proximity-sensor",
+	"Version": "0.0.1",
+	"DisplayName": "Proximity Sensors",
+	"Author": "lassombra",
+	"ManagerVersion": "0.27.3",
+	"Requirements": [ "custom_item_mod" ],
+	"EntryMethod": "ProximitySensor.Main.Load",
+	"AssemblyName": "ProximitySensor.dll",
+	"Repository": "https://raw.githubusercontent.com/lassombra/proximity-sensor/main/repository.json"
+}

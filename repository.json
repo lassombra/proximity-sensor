@@ -1,0 +1,9 @@
+{
+	"Releases": [
+		{
+			"Id": "ConductorClipboard",
+			"Version": "0.0.1",
+			"DownloadUrl": "https://github.com/lassombra/proximity-sensor/releases/download/0.0.1/proximity-sensor.zip"
+		}
+	]
+}
