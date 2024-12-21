@@ -1,0 +1,10 @@
+{
+	"Name": "Proximity Display",
+	"Description": "Pair with Proximity sensors",
+	"Amount": 10,
+	"Price": 2500,
+	"AssetBundleName": "displayunit",
+	"PrefabPath": "Assets/DisplayUnit.prefab",
+	"IconStandardPath": "Assets/ruler.png",
+	"IconDroppedPath": "Assets/ruler.png"
+}

@@ -1,0 +1,3 @@
+﻿seti((from obj in (Resources.FindObjectsOfTypeAll(typeof(GameObject)) as GameObject[])
+where obj.name == "lcd_digit_prefab"
+select obj).ToList())
